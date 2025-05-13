@@ -1,0 +1,7 @@
+﻿  Test47.cpp
+C:\Project Test\Test\Test47\Test47\Test47.cpp(69,31): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test47\Test47\Test47.cpp(69,31): warning C4244:         with
+C:\Project Test\Test\Test47\Test47\Test47.cpp(69,31): warning C4244:         [
+C:\Project Test\Test\Test47\Test47\Test47.cpp(69,31): warning C4244:             _Ty=int
+C:\Project Test\Test\Test47\Test47\Test47.cpp(69,31): warning C4244:         ]
+  Test47.vcxproj -> C:\Project Test\Test\Test47\x64\Debug\Test47.exe

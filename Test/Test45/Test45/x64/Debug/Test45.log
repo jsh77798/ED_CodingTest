@@ -1,0 +1,15 @@
+﻿  Test45.cpp
+C:\Project Test\Test\Test45\Test45\Test45.cpp(82,23): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test45\Test45\Test45.cpp(83,20): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test45\Test45\Test45.cpp(84,21): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test45\Test45\Test45.cpp(107,33): warning C4244: '=': '__int64'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test45\Test45\Test45.cpp(107,33): warning C4244:         with
+C:\Project Test\Test\Test45\Test45\Test45.cpp(107,33): warning C4244:         [
+C:\Project Test\Test\Test45\Test45\Test45.cpp(107,33): warning C4244:             _Ty1=int
+C:\Project Test\Test\Test45\Test45\Test45.cpp(107,33): warning C4244:         ]
+C:\Project Test\Test\Test45\Test45\Test45.cpp(108,34): warning C4244: '=': '__int64'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project Test\Test\Test45\Test45\Test45.cpp(108,34): warning C4244:         with
+C:\Project Test\Test\Test45\Test45\Test45.cpp(108,34): warning C4244:         [
+C:\Project Test\Test\Test45\Test45\Test45.cpp(108,34): warning C4244:             _Ty2=int
+C:\Project Test\Test\Test45\Test45\Test45.cpp(108,34): warning C4244:         ]
+  Test45.vcxproj -> C:\Project Test\Test\Test45\x64\Debug\Test45.exe

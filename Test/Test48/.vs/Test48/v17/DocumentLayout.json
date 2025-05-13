@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Test\\Test\\Test48\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B54ABF7-4182-4B68-BD2F-5E89E9041223}|Test48\\Test48.vcxproj|C:\\Project Test\\Test\\Test48\\Test48\\Test48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B54ABF7-4182-4B68-BD2F-5E89E9041223}|Test48\\Test48.vcxproj|solutionrelative:Test48\\Test48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test48.cpp",
+              "DocumentMoniker": "C:\\Project Test\\Test\\Test48\\Test48\\Test48.cpp",
+              "RelativeDocumentMoniker": "Test48\\Test48.cpp",
+              "ToolTip": "C:\\Project Test\\Test\\Test48\\Test48\\Test48.cpp",
+              "RelativeToolTip": "Test48\\Test48.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T21:14:10.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

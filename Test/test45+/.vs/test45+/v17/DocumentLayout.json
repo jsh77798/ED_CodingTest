@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Test\\Test\\test45\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8241B71-4BAE-4BC2-BDDF-5AB1DADC2E39}|test45\u002B\\test45\u002B.vcxproj|C:\\Project Test\\Test\\test45\u002B\\test45\u002B\\test45\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8241B71-4BAE-4BC2-BDDF-5AB1DADC2E39}|test45\u002B\\test45\u002B.vcxproj|solutionrelative:test45\u002B\\test45\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test45\u002B.cpp",
+              "DocumentMoniker": "C:\\Project Test\\Test\\test45\u002B\\test45\u002B\\test45\u002B.cpp",
+              "RelativeDocumentMoniker": "test45\u002B\\test45\u002B.cpp",
+              "ToolTip": "C:\\Project Test\\Test\\test45\u002B\\test45\u002B\\test45\u002B.cpp",
+              "RelativeToolTip": "test45\u002B\\test45\u002B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T01:46:35.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
